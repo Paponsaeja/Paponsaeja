@@ -1,6 +1,6 @@
 ### Hi I'm Papon, welcome to my github profile 👋
 <h1 align="center">Hi 👋, I'm Papon</h1>
-<h3 align="center">the curious man in this world</h3>
+<h3 align="center">The curious man in this world</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
